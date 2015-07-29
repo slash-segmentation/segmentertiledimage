@@ -2,7 +2,7 @@ Unit Testing
 ============
 
 This directory contains unit tests written in BATS: Bash Automated Testing
-System to test CHM Train Workflow.
+System to test Segmenter tiled image workflow.
 
 BATS can be obtained from here:  https://github.com/sstephenson/bats
 
