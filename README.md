@@ -1,12 +1,13 @@
 [1]: https://kepler-project.org/
 [2]: test/README.md
+[pmv]: https://github.com/crbs/probabilitymapviewer
 
 segmentertiledimage
 =======================
 
 Segmenter tiled image
 
-Generates tiled images from Single Slice CHM image dataset input image.  The tiled images are compatible with Segmenter.
+Generates tiled images from Single Slice CHM image dataset input image.  The tiled images are compatible with [Probability Map Viewer][pmv].
 
 
 Requirements
